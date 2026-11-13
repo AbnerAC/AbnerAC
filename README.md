@@ -5,7 +5,7 @@
 **From Industrial Engineering to Data Science — Turning data into better decisions.**
 
 <details>
-<summary>🇲🇽 Resumen en español</summary>
+<summary>Resumen en español</summary>
 
 <br>
 
@@ -38,15 +38,13 @@ I'm developing practical projects that combine my engineering background with pr
 
 ## 📂 Featured Projects
 
-### Store 1 — Customer Data Cleaning
+### [Store 1 — Customer Data Cleaning](https://github.com/AbnerAC/store1-customer-analytics)
 
-**Status:** In progress · Practice project
+*Practice project*
 
-Customer data cleaning and preparation for an e-commerce loyalty program.
+Standardized messy customer records with a reusable cleaning function, then answered first business questions for a loyalty program: total revenue, young high-spending customers and buyers by category.
 
 **Tools:** Python · Jupyter Notebook
-
-*The notebook and results will be published once the project is completed.*
 
 ---
 
